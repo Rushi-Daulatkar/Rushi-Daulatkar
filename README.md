@@ -2,7 +2,7 @@
 - 👀 I’m interested in codeing Exercises ,logical problem solving
 - I am an expert in HTML and also I know every aspect of this MARK UP langauge
 - 🌱 I’m currently learning Java programming langauge
-- Also I am learning a little bit of Python for my Engineering College
+- Also I am learning a little bit of C for my Engineering College
 - My Insta I'd is Black_Hat_Hacker_057 You Can Also Follow me
 
 <!---
