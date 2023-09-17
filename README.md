@@ -1,3 +1,9 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rushi-Daulatkar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Rushi-Daulatkar/count.svg" />
+</p>
 - 👋 Hi, I’m @Rushi-Daulatkar
 - 👀 I’m interested in codeing Exercises ,logical problem solving
 - I am an expert in HTML and also I know every aspect of this MARK UP langauge
