@@ -16,5 +16,3 @@ Rushi-Daulatkar/Rushi-Daulatkar is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 [![An image of @rushidaulatkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rushidaulatkar)](https://holopin.io/@rushidaulatkar)
-https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19
-
