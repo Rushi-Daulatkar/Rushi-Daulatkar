@@ -16,5 +16,3 @@ Rushi-Daulatkar/Rushi-Daulatkar is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 [![An image of @rushidaulatkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rushidaulatkar)](https://holopin.io/@rushidaulatkar)
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
